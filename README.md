@@ -80,6 +80,7 @@ Dine & Dazzle is a modern restaurant ordering system that supports:
 2. Open the project in your favorite IDE (e.g., IntelliJ or Eclipse)
 3. Make sure JavaFX is configured correctly
 4. Run the application through the main entry point
+5. Make sure to run 'HelloApplication' file
 
 ---
 
@@ -88,6 +89,19 @@ Dine & Dazzle is a modern restaurant ordering system that supports:
 You can view the full project documentation in the attached [Dine_And_Dazzle_Report.pdf], which includes all UML diagrams, methodology descriptions, and system analysis details.
 
 ---
+
+## 📷 GUI preview
+check the demo video in the project folders and also here is a quick hint of what the app looks like:
+<img width="973" alt="image" src="https://github.com/user-attachments/assets/920a6444-dc7f-47ed-a292-71e04e1da7cc" />
+<img width="974" alt="image" src="https://github.com/user-attachments/assets/50d6eba2-308e-4d3b-af56-1e8383112395" />
+<p>
+  <img width="453" alt="image" src="https://github.com/user-attachments/assets/f773a318-8346-491f-b4c6-d5742a3b46d6" />
+  <img width="449" alt="image" src="https://github.com/user-attachments/assets/955256e7-bdae-4ffc-bc4a-8d11f8924974" />
+</p>
+
+
+
+
 
 ## 📌 Notes
 
